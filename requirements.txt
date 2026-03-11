@@ -9,3 +9,4 @@ ipykernel>=6.29
 requests>=2.32
 tqdm>=4.66
 joblib>=1.4
+datasets>=2.20
