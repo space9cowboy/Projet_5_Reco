@@ -1,0 +1,24 @@
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Données brutes (trop volumineuses pour git)
+data/raw/
+
+# Modèles sauvegardés
+*.pkl
+*.h5
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
